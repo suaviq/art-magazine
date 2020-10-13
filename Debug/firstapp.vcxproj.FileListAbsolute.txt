@@ -1,0 +1,2 @@
+C:\Users\alase\OneDrive\Pulpit\firstapp\Debug\firstapp.exe
+C:\Users\alase\OneDrive\Pulpit\firstapp\Debug\firstapp.pdb
