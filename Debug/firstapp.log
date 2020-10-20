@@ -1,6 +1,2 @@
-﻿  minmax.cpp
-  ascii.cpp
-  mean.cpp
-  sort.cpp
-  Generowanie kodu...
-  firstapp.vcxproj -> C:\Users\alase\OneDrive\Pulpit\firstapp\Debug\firstapp.exe
+﻿  histogram.cpp
+C:\Users\alase\OneDrive\Pulpit\firstapp\histogram.cpp(8,19): error C2064: funkcja przyjmująca 2 argumentów nie jest wynikiem przetworzenia termu

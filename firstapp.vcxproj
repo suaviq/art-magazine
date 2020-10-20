@@ -139,10 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dsum.cpp" />
+    <ClCompile Include="fibonacci.cpp" />
+    <ClCompile Include="histogram.cpp" />
     <ClCompile Include="minmax.cpp" />
     <ClCompile Include="ascii.cpp" />
     <ClCompile Include="mean.cpp" />
     <ClCompile Include="sort.cpp" />
+    <ClCompile Include="focp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="histogram.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
