@@ -3,16 +3,16 @@
 ////
 ////int fibonacci()
 ////{
-////    int n, t1 = 0, t2 = 1, nextTerm = 0;
+////    int n, t1 = 0, t2 = 1, nextterm = 0;
 ////
-////    cout << "Enter the number of terms: ";
+////    cout << "enter the number of terms: ";
 ////    cin >> n;
 ////
-////    cout << "Fibonacci Series: ";
+////    cout << "fibonacci series: ";
 ////
 ////    for (int i = 1; i <= n; ++i)
 ////    {
-////        // Prints the first two terms.
+////        // prints the first two terms.
 ////        if (i == 1)
 ////        {
 ////            cout << " " << t1;
@@ -23,14 +23,14 @@
 ////            cout << t2 << " ";
 ////            continue;
 ////        }
-////        nextTerm = t1 + t2;
+////        nextterm = t1 + t2;
 ////        t1 = t2;
-////        t2 = nextTerm;
+////        t2 = nextterm;
 ////
-////        cout << nextTerm << " ";
+////        cout << nextterm << " ";
 ////    }
-////    return nextTerm;
-//    //Fibonacci Series using Recursion 
+////    return nextterm;
+//    //fibonacci series using recursion 
 //#include<iostream> 
 //    using namespace std;
 //
@@ -51,5 +51,5 @@
 //        return 0;
 //    }
 //
-//    // This code is contributed 
-//    // by Akanksha Rai 
+//    // this code is contributed 
+//    // by akanksha rai 
