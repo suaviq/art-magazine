@@ -142,6 +142,8 @@
     <ClCompile Include="dsum.cpp" />
     <ClCompile Include="fibonacci.cpp" />
     <ClCompile Include="histogram.cpp" />
+    <ClCompile Include="lab2.cpp" />
+    <ClCompile Include="labs.cpp" />
     <ClCompile Include="minmax.cpp" />
     <ClCompile Include="ascii.cpp" />
     <ClCompile Include="mean.cpp" />
